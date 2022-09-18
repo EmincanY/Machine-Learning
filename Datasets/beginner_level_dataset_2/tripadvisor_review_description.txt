@@ -1,0 +1,25 @@
+Attribute Information:
+User ID: Unique user id
+Category 1: Average user   feedback on art galleries
+Category 2: Average user   feedback on dance clubs
+Category 3: Average user   feedback on juice bars
+Category 4: Average user   feedback on restaurants
+Category 5: Average user   feedback on museums
+Category 6: Average user   feedback on resorts
+Category 7: Average user   feedback on parks/picnic spots
+Category 8: Average user   feedback on beaches
+Category 9: Average user   feedback on theaters
+Category 10: Average user   feedback on religious institutions
+
+
+About data:
+Dataset has 980 rows and 11 columns
+
+Modelling Type:
+exploratory data analysis, data visualization, clustering and classification modelling techniques. 
+
+
+References:
+This data set has been sourced from the Machine Learning Repository of University of California, Irvine Travel Reviews Data Set (UC Irvine). 
+The UCI page mentions the following publication as the original source of the data set:
+Renjith, Shini, A. Sreekumar, and M. Jathavedan. 2018. Evaluation of Partitioning Clustering Algorithms for Processing Social Media Data in Tourism Domain. In 2018 IEEE Recent Advances in Intelligent Computational Systems (RAICS), 12731. IEEE

@@ -1,0 +1,19 @@
+Attribute Information:
+STG (The degree of study time for goal object materails),
+SCG (The degree of repetition number of user for goal object materails)
+STR (The degree of study time of user for related objects with goal object)
+LPR (The exam performance of user for related objects with goal object)
+PEG (The exam performance of user for goal objects)
+UNS (The knowledge level of user)
+
+
+About data:
+Dataset has 403 rows and 6 columns
+
+Modelling Type:
+exploratory data analysis, data visualization, and classification and clustering techniques.
+
+References:
+This data set has been sourced from the Machine Learning Repository of University of California, Irvine User Knowledge Modeling Data Set (UC Irvine). 
+The UCI page mentions the following publication as the original source of the data set:
+H. T. Kahraman, Sagiroglu, S., Colak, I., Developing intuitive knowledge classifier and modeling of users' domain dependent data in web, Knowledge Based Systems, vol. 37, pp. 283-295, 2013

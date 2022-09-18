@@ -1,0 +1,13 @@
+
+About data:
+Dataset has 60 rows and 13 columns
+
+Modelling Type:
+exploratory data analysis, data visualization, and regression modelling techniques. 
+
+
+References:
+This data set has been sourced from the Machine Learning Repository of University of California, Irvine Daily Demand Forecasting Orders Data Set (UC Irvine). 
+The UCI page mentions the following publication as the original source of the data set:
+
+Ferreira, R. P., Martiniano, A., Ferreira, A., Ferreira, A., & Sassi, R. J. (2016). Study on daily demand forecasting orders using artificial neural network. IEEE Latin America Transactions, 14(3), 1519-1525

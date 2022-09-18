@@ -1,0 +1,28 @@
+Attribute Information:
+No: row   number
+Year: year of   data in this row
+Month: month   of data in this row
+Day: day of   data in this row
+Hour: hour of   data in this row
+PM2.5: PM2.5   concentration (ug/m3)
+DEWP: Dew   Point (â„ƒ)
+TEMP:   Temperature (â„ƒ)
+PRES: Pressure   (hPa)
+cbwd: Combined   wind direction
+Iws: Cumulated   wind speed (m/s)
+Is: Cumulated   hours of snow
+Ir: Cumulated   hours of rain
+
+
+About data:
+Dataset has 43824 rows and 13 columns
+
+Modelling Type:
+exploratory data analysis, data visualization, and regression modelling techniques. 
+
+
+References:
+This data set has been sourced from the Machine Learning Repository of University of California, Irvine Beijing PM2.5 Data Set (UC Irvine). 
+The UCI page mentions the following publication as the original source of the data set:
+
+Liang, X., Zou, T., Guo, B., Li, S., Zhang, H., Zhang, S., Huang, H. and Chen, S. X. (2015). Assessing Beijing's PM2.5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A, 471, 20150257
